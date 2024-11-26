@@ -15,10 +15,11 @@
 
 DEFAULT_FOLDER = splitkb/aurora/lily58/rev1
 
-ENCODER_ENABLE = yes
+# ENCODER_ENABLE = yes
 AUTO_SHIFT_ENABLE = yes
 # enable oled 22.06.2024
 OLED_ENABLE = yes
 OLED_DRIVER = ssd1306
 
 RAW_ENABLE = yes
+ENCODER_MAP_ENABLE = yes
