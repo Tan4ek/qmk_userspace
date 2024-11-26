@@ -1,0 +1,3 @@
+- [ ] Beautify the description of layers and keys
+- [ ] Beautify the code
+- [ ] Fix the issue with rules.mk not working, and ensure it is used from the qmk_firmware repository
